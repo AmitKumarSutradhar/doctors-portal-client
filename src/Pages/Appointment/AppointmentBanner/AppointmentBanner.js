@@ -1,5 +1,5 @@
 import { format } from 'date-fns';
-import React, { useState } from 'react';
+import React from 'react';
 import { DayPicker } from 'react-day-picker';
 import bg from '../../../assets/images/bg.png';
 import chair from '../../../assets/images/chair.png';
